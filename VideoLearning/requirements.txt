@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django==5.0.2
+greenlet==3.0.3
+playwright==1.41.2
+pyee==11.0.1
+sqlparse==0.4.4
